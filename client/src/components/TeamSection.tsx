@@ -84,12 +84,12 @@ export default function TeamSection() {
       description: "Sandeep is a seasoned expert with over 30 years of experience in natural resource management, watershed-based landscape planning, climate change, and nature-based solutions. He specializes in scientific water conservation, sustainable agriculture, and ecological restoration, with a strong focus on capacity building, evaluation, and communication. Sandeep has worked with state governments, UN agencies, ICRISAT, and INGOs across India and internationally. Recently, Sandeep is implementing innovative Nature-based Solutions (NbS) for treating grey and black water, promoting natural farming systems, and leading efforts in reviving traditional water bodies.",
       hoverInfo: "Worked with state governments, UN agencies, ICRISAT, and INGOs across India and internationally on watershed management and climate resilience projects"
     },
-    {
-      name: "Kiran KP",
-      image: "/images/kiran-kp.png",
-      description: "With nearly 13 years of experience, Kiran K.P. bridges advanced technology and grassroots action in the environmental sector. Backed by engineering and forestry management degrees, he fosters collaboration among diverse stakeholders to deliver effective, science-based solutions. Kiran has led major community-driven projects, including preparing watershed project reports for 96,000 hectares across 220 villages in Gujarat. His extensive expertise spans livelihood planning, resource management, and innovative technology implementation—consistently turning complex strategies into tangible, sustainable benefits for communities and the environment.",
-      hoverInfo: "Led major community-driven projects including watershed project reports for 96,000 hectares across 220 villages in Gujarat with extensive expertise spanning livelihood planning and technology solutions"
-    },
+    // {
+    //   name: "Kiran KP",
+    //   image: "/images/kiran-kp.png",
+    //   description: "With nearly 13 years of experience, Kiran K.P. bridges advanced technology and grassroots action in the environmental sector. Backed by engineering and forestry management degrees, he fosters collaboration among diverse stakeholders to deliver effective, science-based solutions. Kiran has led major community-driven projects, including preparing watershed project reports for 96,000 hectares across 220 villages in Gujarat. His extensive expertise spans livelihood planning, resource management, and innovative technology implementation—consistently turning complex strategies into tangible, sustainable benefits for communities and the environment.",
+    //   hoverInfo: "Led major community-driven projects including watershed project reports for 96,000 hectares across 220 villages in Gujarat with extensive expertise spanning livelihood planning and technology solutions"
+    // },
     {
       name: "Dr. Gaini Sailu",
       image: "/images/sailu.png",
